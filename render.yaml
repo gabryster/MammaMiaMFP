@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: MammaMiaAll
+    name: Direct
     runtime: python  
     buildCommand: pip install -r requirements.txt  
     startCommand: python3 run.py  
